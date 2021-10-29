@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textArea {
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  width: 400px;
+  margin: 20px;
+}
